@@ -70,18 +70,18 @@ If you get stuck or have any questions about bulding AI Agents, join our [Azure 
 
 ## 🗃️ Lessons
 
-| **Lesson**                            | **Link**                                   |
-|----------------------------------------|--------------------------------------------|
-| Intro to AI Agents and Use Cases       | [Link](./01-intro-to-ai-agents/README.md)          |
-| Exploring Agentic Frameworks           | [Link](./02-explore-agentic-frameworks/README.md)  |
-| Understanding Agentic Design Patterns  | [Link](./03-agentic-design-patterns/README.md)  |
-| Tool Use Design Pattern                | [Link](./04-tool-use/README.md)                    |
-| Agentic RAG                            | [Link](./05-agentic-rag/README.md)                 |
-| Building Trustworty AI Agents          | [Link](./06-building-trustworthy-agents/README.md) |
-| Planning Design Pattern                | [Link](./07-planning-design/README.md)             |
-| Multi-Agent Design Pattern             | [Link](./08-multi-agent/README.md)                 |
-| Metacognition Design Pattern           | [Link](./09-metacognition/README.md)               |
-| AI Agents in Production                | [Link](./10-ai-agents-production/README.md)        |
+| **Lesson**                                 | **Link**                                   |
+|--------------------------------------------|--------------------------------------------|
+| Intro to AI Agents and Agent Use Cases     | [Link](./01-intro-to-ai-agents/README.md)          |
+| Exploring AI Agentic Frameworks            | [Link](./02-explore-agentic-frameworks/README.md)  |
+| Understanding AI Agentic Design Principles | [Link](./03-agentic-design-patterns/README.md)  |
+| Tool Use Design Pattern                    | [Link](./04-tool-use/README.md)                    |
+| Agentic RAG                                | [Link](./05-agentic-rag/README.md)                 |
+| Building Trustworty AI Agents              | [Link](./06-building-trustworthy-agents/README.md) |
+| Planning Design Pattern                    | [Link](./07-planning-design/README.md)             |
+| Multi-Agent Design Pattern                 | [Link](./08-multi-agent/README.md)                 |
+| Metacognition Design Pattern               | [Link](./09-metacognition/README.md)               |
+| AI Agents in Production                    | [Link](./10-ai-agents-production/README.md)        |
 
 ## 🎒 Other Courses
 
